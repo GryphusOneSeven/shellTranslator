@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="DeepL.net" Version="1.7.1" />
+    <PackageReference Include="LibreTranslate.Net" Version="1.0.1" />
   </ItemGroup>
 
 </Project>
